@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35017.193
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtvTDD", "AtvTDD.csproj", "{F3AEBB0D-CB06-42D4-82F3-6F00BA49C1EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtvTDDTest", "..\AtvTDDTest\AtvTDDTest.csproj", "{95E2E580-4A85-4DFA-821E-3546AAA68AA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3AEBB0D-CB06-42D4-82F3-6F00BA49C1EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3AEBB0D-CB06-42D4-82F3-6F00BA49C1EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3AEBB0D-CB06-42D4-82F3-6F00BA49C1EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3AEBB0D-CB06-42D4-82F3-6F00BA49C1EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95E2E580-4A85-4DFA-821E-3546AAA68AA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95E2E580-4A85-4DFA-821E-3546AAA68AA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95E2E580-4A85-4DFA-821E-3546AAA68AA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95E2E580-4A85-4DFA-821E-3546AAA68AA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E53DB8D9-5643-4E5F-8082-9D5A32EB31C7}
+	EndGlobalSection
+EndGlobal

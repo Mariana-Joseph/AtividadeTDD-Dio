@@ -1,0 +1,15 @@
+C:\Users\marianasouza\source\repos\AtvTDD\bin\Debug\net5.0\AtvTDD.exe
+C:\Users\marianasouza\source\repos\AtvTDD\bin\Debug\net5.0\AtvTDD.deps.json
+C:\Users\marianasouza\source\repos\AtvTDD\bin\Debug\net5.0\AtvTDD.runtimeconfig.json
+C:\Users\marianasouza\source\repos\AtvTDD\bin\Debug\net5.0\AtvTDD.runtimeconfig.dev.json
+C:\Users\marianasouza\source\repos\AtvTDD\bin\Debug\net5.0\AtvTDD.dll
+C:\Users\marianasouza\source\repos\AtvTDD\bin\Debug\net5.0\AtvTDD.pdb
+C:\Users\marianasouza\source\repos\AtvTDD\obj\Debug\net5.0\AtvTDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marianasouza\source\repos\AtvTDD\obj\Debug\net5.0\AtvTDD.AssemblyInfoInputs.cache
+C:\Users\marianasouza\source\repos\AtvTDD\obj\Debug\net5.0\AtvTDD.AssemblyInfo.cs
+C:\Users\marianasouza\source\repos\AtvTDD\obj\Debug\net5.0\AtvTDD.csproj.CoreCompileInputs.cache
+C:\Users\marianasouza\source\repos\AtvTDD\obj\Debug\net5.0\AtvTDD.dll
+C:\Users\marianasouza\source\repos\AtvTDD\obj\Debug\net5.0\refint\AtvTDD.dll
+C:\Users\marianasouza\source\repos\AtvTDD\obj\Debug\net5.0\AtvTDD.pdb
+C:\Users\marianasouza\source\repos\AtvTDD\obj\Debug\net5.0\AtvTDD.genruntimeconfig.cache
+C:\Users\marianasouza\source\repos\AtvTDD\obj\Debug\net5.0\ref\AtvTDD.dll

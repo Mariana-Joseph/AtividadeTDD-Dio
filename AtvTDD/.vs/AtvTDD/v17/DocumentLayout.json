@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marianasouza\\source\\repos\\AtvTDD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AEBB0D-CB06-42D4-82F3-6F00BA49C1EC}|AtvTDD.csproj|c:\\users\\marianasouza\\source\\repos\\atvtdd\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AEBB0D-CB06-42D4-82F3-6F00BA49C1EC}|AtvTDD.csproj|solutionrelative:calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E2E580-4A85-4DFA-821E-3546AAA68AA2}|..\\AtvTDDTest\\AtvTDDTest.csproj|c:\\users\\marianasouza\\source\\repos\\atvtddtest\\unittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AEBB0D-CB06-42D4-82F3-6F00BA49C1EC}|AtvTDD.csproj|c:\\users\\marianasouza\\source\\repos\\atvtdd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AEBB0D-CB06-42D4-82F3-6F00BA49C1EC}|AtvTDD.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E2E580-4A85-4DFA-821E-3546AAA68AA2}|..\\AtvTDDTest\\AtvTDDTest.csproj|c:\\users\\marianasouza\\source\\repos\\atvtddtest\\atvtddtest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest.cs",
+              "DocumentMoniker": "C:\\Users\\marianasouza\\source\\repos\\AtvTDDTest\\UnitTest.cs",
+              "RelativeDocumentMoniker": "..\\AtvTDDTest\\UnitTest.cs",
+              "ToolTip": "C:\\Users\\marianasouza\\source\\repos\\AtvTDDTest\\UnitTest.cs",
+              "RelativeToolTip": "..\\AtvTDDTest\\UnitTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:38:11.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AtvTDDTest.csproj",
+              "DocumentMoniker": "C:\\Users\\marianasouza\\source\\repos\\AtvTDDTest\\AtvTDDTest.csproj",
+              "RelativeDocumentMoniker": "..\\AtvTDDTest\\AtvTDDTest.csproj",
+              "ToolTip": "C:\\Users\\marianasouza\\source\\repos\\AtvTDDTest\\AtvTDDTest.csproj",
+              "RelativeToolTip": "..\\AtvTDDTest\\AtvTDDTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-23T12:58:38.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\marianasouza\\source\\repos\\AtvTDD\\Calculadora.cs",
+              "RelativeDocumentMoniker": "Calculadora.cs",
+              "ToolTip": "C:\\Users\\marianasouza\\source\\repos\\AtvTDD\\Calculadora.cs",
+              "RelativeToolTip": "Calculadora.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowC8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T12:49:36.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marianasouza\\source\\repos\\AtvTDD\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\marianasouza\\source\\repos\\AtvTDD\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T12:42:39.896Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
